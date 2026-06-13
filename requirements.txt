@@ -1,6 +1,7 @@
 streamlit
 langchain==0.1.20
 langchain-community==0.0.38
-chromadb
+chromadb==0.4.22
 sentence-transformers
 tiktoken
+protobuf==3.20.3
